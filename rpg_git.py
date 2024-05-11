@@ -26,9 +26,10 @@ chat = model.start_chat(history=[])
 nome = input("qual seu é nome? ")
 reino = input("qual é o nome do reino? ")
 raça = input("qual é a raça do seu reino? ")
-con = input("Já possui um reino?")
+
 i = 1
 while(i == 1):
+  con = input("Já possui um reino?")
   if (con == "não"):
       pergunta = "Quero Criar um reino chamado "+reino+" onde eu serei o rei "+nome+" e a raça do reino será "+raça+"."
       i = 2
