@@ -1,7 +1,8 @@
 import google.generativeai as genai
+import os
 import time
 #############################################Configurando o Gemini#############################################
-API_KEY = 'YOUR API_KEY'
+API_KEY = 'SUA CHAVE DE API AQUI'
 
 genai.configure(api_key=API_KEY)
 
@@ -25,13 +26,19 @@ model = genai.GenerativeModel(model_name='gemini-1.5-pro-latest',generation_conf
 chat = model.start_chat(history=[])
 ###############################################################################################################
 #pedindo informações para o usuário para iniciar o jogo
+mundos = os.listdir("mundos/")
+print("Aventuras já criados: ")
+for mundo in mundos:
+  mundo = mundo.replace(".txt", "")
+  print(mundo + ", ")
+print("\n")
 nome_avetura = input("Qual o nome da aventura? ")
 nome = input("qual seu é nome? ")
 reino = input("qual é o nome do reino? ")
 raça = input("qual é a raça do seu reino? ")
 #perguntando se o usuário já possui um reino
 while(1):
-  con = input("Já possui um reino?")
+  con = input("Já possui um reino? ")
   if (con == "não"):
       pergunta = "Quero Criar um reino chamado "+reino+". Meu nome é "+nome+" e a raça do reino será de "+raça+".Para Iniciar, gostaria de discutir a religião do reino."
       break
