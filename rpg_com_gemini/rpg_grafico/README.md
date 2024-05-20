@@ -1,26 +1,25 @@
 Esse é o RPG com base no Gemini com uma interface gráfica e efeitos sonoros que ainda estão sendo desenvolvidos! Ele funciono que nem o do terminal, porém com uma parte gráfica. Ele também separa agora os status do reino com o texto da aventura e as especies são 'limitadas', mas eu tentei colocar varias opções e acho difícil que alguém queira jogar com uma diferente
-#################################################################
+
 as espécies são:
-anão
-centauro
-demônio
-djinn
-dragão
-elemental
-elfo
-fauno
-gnomo
-goblin
-humano
-leprechaun
-mago
-morto vivo
-orc
-rinoceronte
-sereia
-trol
-vampiro
-#################################################################
+anão,
+centauro,
+demônio,
+djinn,
+dragão,
+elemental,
+elfo,
+fauno,
+gnomo,
+goblin,
+humano,
+leprechaun,
+mago,
+morto vivo,
+orc,
+rinoceronte,
+sereia,
+trol,
+vampiro,
 
 lembrando que é necessário utilizar uma chave api do Google gemini no Google AI studio e colocar na parte indicada do código
 também é necessário instalar o pygame que foi a bliblioteca utilizada para criar o jogo e o SDK da api do Gemini
