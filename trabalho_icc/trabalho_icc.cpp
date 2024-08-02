@@ -62,163 +62,163 @@ string texts[7][3] = {
 };
 
 string news[7][3] = {
-    {"O maior investimento do governo para que mulheres participem de áreas científicas incentivou\n"
-     "milhares de jovens a seguir carreiras em STEM. A iniciativa da Corporação TecNova, em parcer\n"
-     "ia com universidades renomadas, resultou em um aumento de 30% na participação feminina nesse\n"
-     "s cursos. Economistas apontam que a inclusão de mais mulheres na ciência pode gerar um impac\n"
-     "to positivo no PIB, com projeções de crescimento de 2% nos próximos cinco anos. Além disso, \n"
-     "a iniciativa também está promovendo a criação de programas de mentoria para mulheres cientis\n"
-     "tas, visando apoiar o desenvolvimento de suas carreiras e aumentar a representatividade femi\n"
+    {"O maior investimento do governo para que mulheres participem de áreas científicas incentivou"
+     "milhares de jovens a seguir carreiras em STEM. A iniciativa da Corporação TecNova, em parcer"
+     "ia com universidades renomadas, resultou em um aumento de 30% na participação feminina nesse"
+     "s cursos. Economistas apontam que a inclusão de mais mulheres na ciência pode gerar um impac"
+     "to positivo no PIB, com projeções de crescimento de 2% nos próximos cinco anos. Além disso, "
+     "a iniciativa também está promovendo a criação de programas de mentoria para mulheres cientis"
+     "tas, visando apoiar o desenvolvimento de suas carreiras e aumentar a representatividade femi"
      "nina nas áreas científicas.",
 
-     "Desenvolvedores de jogos, como a startup GameHer, estão criando títulos que atendem aos\n"
-     "interesses das mulheres, aumentando a participação feminina no mercado de jogos. A CEO da\n"
-     "GameHer, Julia Lopes, afirmou que essa mudança está promovendo um ambiente mais inclusivo e\n"
-     "diversificado. A empresa relatou um aumento de 50% em suas vendas, demonstrando o impacto\n"
-     "positivo dessa estratégia. Além disso, a GameHer também está investindo em programas de\n"
-     "capacitação para mulheres interessadas em desenvolver jogos, visando incentivar a participação\n"
+     "Desenvolvedores de jogos, como a startup GameHer, estão criando títulos que atendem aos"
+     "interesses das mulheres, aumentando a participação feminina no mercado de jogos. A CEO da"
+     "GameHer, Julia Lopes, afirmou que essa mudança está promovendo um ambiente mais inclusivo e"
+     "diversificado. A empresa relatou um aumento de 50% em suas vendas, demonstrando o impacto"
+     "positivo dessa estratégia. Além disso, a GameHer também está investindo em programas de"
+     "capacitação para mulheres interessadas em desenvolver jogos, visando incentivar a participação"
      "feminina na indústria de games.",
 
-     "A descoberta de novos campos de petróleo pela PetroNacional está fortalecendo a economia.\n"
-     "Especialistas alertam, porém, para os impactos ambientais. A ONG VerdeLimpo destacou que é\n"
-     "essencial balancear o desenvolvimento econômico com a sustentabilidade. No cenário global, a\n"
-     "descoberta coloca o país entre os principais exportadores de petróleo, mas também aumenta as\n"
-     "responsabilidades ambientais e revela um lado sombrio: o aumento do machismo na indústria do \n"
+     "A descoberta de novos campos de petróleo pela PetroNacional está fortalecendo a economia."
+     "Especialistas alertam, porém, para os impactos ambientais. A ONG VerdeLimpo destacou que é"
+     "essencial balancear o desenvolvimento econômico com a sustentabilidade. No cenário global, a"
+     "descoberta coloca o país entre os principais exportadores de petróleo, mas também aumenta as"
+     "responsabilidades ambientais e revela um lado sombrio: o aumento do machismo na indústria do "
      "petróleo. Relatos de discriminação e assédio têm surgido, evidenciando a necessidade de combater essa questão."},
 
-    {"A agropecuária nacional está se expandindo graças às inovações tecnológicas implementadas pela\n"
-     "AgroTech Brasil. A empresa, em colaboração com o Ministério da Agricultura, promove práticas\n"
-     "sustentáveis que estão revolucionando o setor. A produção aumentou em 20%, e o impacto positivo\n"
-     "já é visível na balança comercial do país. No entanto, desafios ambientais ainda persistem. Além\n"
-     "disso, a AgroTech Brasil está investindo em programas de capacitação para mulheres agricultoras,\n"
-     "visando promover a participação feminina no setor agropecuário e garantir a igualdade de\n"
+    {"A agropecuária nacional está se expandindo graças às inovações tecnológicas implementadas pela"
+     "AgroTech Brasil. A empresa, em colaboração com o Ministério da Agricultura, promove práticas"
+     "sustentáveis que estão revolucionando o setor. A produção aumentou em 20%, e o impacto positivo"
+     "já é visível na balança comercial do país. No entanto, desafios ambientais ainda persistem. Além"
+     "disso, a AgroTech Brasil está investindo em programas de capacitação para mulheres agricultoras,"
+     "visando promover a participação feminina no setor agropecuário e garantir a igualdade de"
      "oportunidades.",
 
-     "Grupos de apoio feminino, como o RedeMulher, estão ajudando mulheres a superarem desafios e\n"
-     "alcançarem seus objetivos. O projeto MulheresEmpreendedoras, da Fundação Aurora, oferece\n"
-     "mentorias e financiamento para startups lideradas por mulheres, resultando na criação de\n"
-     "milhares de novos negócios. Esse movimento está criando uma rede de suporte vital e empoderando\n"
-     "mulheres em todo o país. Além disso, o RedeMulher também está promovendo a realização de\n"
-     "workshops e cursos de capacitação para mulheres empreendedoras, visando fortalecer suas\n"
+     "Grupos de apoio feminino, como o RedeMulher, estão ajudando mulheres a superarem desafios e"
+     "alcançarem seus objetivos. O projeto MulheresEmpreendedoras, da Fundação Aurora, oferece"
+     "mentorias e financiamento para startups lideradas por mulheres, resultando na criação de"
+     "milhares de novos negócios. Esse movimento está criando uma rede de suporte vital e empoderando"
+     "mulheres em todo o país. Além disso, o RedeMulher também está promovendo a realização de"
+     "workshops e cursos de capacitação para mulheres empreendedoras, visando fortalecer suas"
      "habilidades e promover o crescimento de seus negócios.",
 
-     "Campanhas nacionais contra o preconceito, lideradas pelo Instituto IgualdadeJá, estão\n"
-     "promovendo uma sociedade mais justa. A campanha 'Respeito por Todos', lançada pelo governo,\n"
-     "resultou em um aumento significativo na conscientização e no respeito aos direitos das mulheres.\n"
-     "Pesquisas mostram que essas iniciativas estão reduzindo incidentes de discriminação e promovendo\n"
-     "maior igualdade. Além disso, o Instituto IgualdadeJá está desenvolvendo programas de educação\n"
-     "e conscientização sobre igualdade de gênero, visando combater o preconceito e promover a\n"
+     "Campanhas nacionais contra o preconceito, lideradas pelo Instituto IgualdadeJá, estão"
+     "promovendo uma sociedade mais justa. A campanha 'Respeito por Todos', lançada pelo governo,"
+     "resultou em um aumento significativo na conscientização e no respeito aos direitos das mulheres."
+     "Pesquisas mostram que essas iniciativas estão reduzindo incidentes de discriminação e promovendo"
+     "maior igualdade. Além disso, o Instituto IgualdadeJá está desenvolvendo programas de educação"
+     "e conscientização sobre igualdade de gênero, visando combater o preconceito e promover a"
      "tolerância na sociedade."},
 
-    {"Movimentos tradicionalistas, como o BrasilTradição, estão promovendo valores conservadores e\n"
-     "modos de vida tradicionais. Enquanto ganham apoio em algumas regiões, críticos alertam para o\n"
-     "potencial retrocesso na igualdade de gênero. Organizações de direitos humanos, como a NovoTempo,\n"
-     "sublinhando a importância de balancear tradições com progresso social e inclusão de gênero. Além\n"
-     "disso, a NovoTempo está promovendo debates e diálogos entre diferentes grupos sociais, visando\n"
+    {"Movimentos tradicionalistas, como o BrasilTradição, estão promovendo valores conservadores e"
+     "modos de vida tradicionais. Enquanto ganham apoio em algumas regiões, críticos alertam para o"
+     "potencial retrocesso na igualdade de gênero. Organizações de direitos humanos, como a NovoTempo,"
+     "sublinhando a importância de balancear tradições com progresso social e inclusão de gênero. Além"
+     "disso, a NovoTempo está promovendo debates e diálogos entre diferentes grupos sociais, visando"
      "fomentar a compreensão mútua e encontrar soluções que respeitem os direitos de todos.",
 
-     "Mais mulheres estão sendo eleitas para cargos políticos, trazendo perspectivas diversas e\n"
-     "importantes para a legislação. A iniciativa Mulheres no Poder, apoiada pela ONG Política para\n"
-     "Todos, está treinando futuras líderes. Esse aumento na representação feminina está contribuindo\n"
-     "para políticas públicas mais inclusivas e equitativas, sendo um modelo para outros países da\n"
-     "região. Além disso, a ONG Política para Todos está promovendo a realização de workshops e\n"
-     "cursos de capacitação política para mulheres interessadas em ingressar na vida pública, visando\n"
+     "Mais mulheres estão sendo eleitas para cargos políticos, trazendo perspectivas diversas e"
+     "importantes para a legislação. A iniciativa Mulheres no Poder, apoiada pela ONG Política para"
+     "Todos, está treinando futuras líderes. Esse aumento na representação feminina está contribuindo"
+     "para políticas públicas mais inclusivas e equitativas, sendo um modelo para outros países da"
+     "região. Além disso, a ONG Política para Todos está promovendo a realização de workshops e"
+     "cursos de capacitação política para mulheres interessadas em ingressar na vida pública, visando"
      "fortalecer sua participação e influência.",
 
-     "O governo está aumentando o investimento nas forças armadas com o projeto Defesa Forte,\n"
-     "fortalecendo a defesa nacional. No entanto, críticos apontam que esses recursos poderiam ser\n"
-     "melhor empregados em áreas sociais. A organização Paz e Progresso sugere um balanço entre\n"
-     "investimento militar e desenvolvimento social para garantir um crescimento sustentável. Além\n"
-     "disso, a Paz e Progresso está promovendo debates e discussões sobre a destinação dos recursos\n"
+     "O governo está aumentando o investimento nas forças armadas com o projeto Defesa Forte,"
+     "fortalecendo a defesa nacional. No entanto, críticos apontam que esses recursos poderiam ser"
+     "melhor empregados em áreas sociais. A organização Paz e Progresso sugere um balanço entre"
+     "investimento militar e desenvolvimento social para garantir um crescimento sustentável. Além"
+     "disso, a Paz e Progresso está promovendo debates e discussões sobre a destinação dos recursos"
      "públicos, visando encontrar um equilíbrio entre as necessidades de defesa e as demandas sociais."},
 
-    {"Grupos de maratona femininos de programação, como o CodeGirls, estão incentivando a participação de mulheres\n"
-     "em eventos de programação. Essas iniciativas promovem o desenvolvimento de habilidades técnicas e\n"
-     "aumentam a visibilidade feminina na área de programação. Eventos como a Maratona da Igualdade de Programação estão atraindo\n"
-     "milhares de participantes e destacando a importância da inclusão das mulheres na indústria de tecnologia. Além disso, o\n"
-     "CodeGirls está promovendo a realização de treinamentos e workshops para mulheres interessadas\n"
+    {"Grupos de maratona femininos de programação, como o CodeGirls, estão incentivando a participação de mulheres"
+     "em eventos de programação. Essas iniciativas promovem o desenvolvimento de habilidades técnicas e"
+     "aumentam a visibilidade feminina na área de programação. Eventos como a Maratona da Igualdade de Programação estão atraindo"
+     "milhares de participantes e destacando a importância da inclusão das mulheres na indústria de tecnologia. Além disso, o"
+     "CodeGirls está promovendo a realização de treinamentos e workshops para mulheres interessadas"
      "em participar de maratonas de programação, visando prepará-las e encorajá-las a superar desafios.",
 
-     "Campanhas estão destacando as conquistas de mulheres em áreas de ciências exatas, inspirando\n"
-     "futuras gerações. O projeto Mulheres de Ciência, da Fundação Futuro, divulgou histórias de\n"
-     "sucesso que estão ajudando a quebrar estereótipos de gênero. Essas iniciativas estão encorajando\n"
-     "mais meninas a seguir carreiras científicas e promovendo um ambiente mais inclusivo nas\n"
-     "universidades e empresas. Além disso, a Fundação Futuro está promovendo a realização de\n"
-     "palestras e workshops sobre carreiras científicas para estudantes do ensino médio, visando\n"
+     "Campanhas estão destacando as conquistas de mulheres em áreas de ciências exatas, inspirando"
+     "futuras gerações. O projeto Mulheres de Ciência, da Fundação Futuro, divulgou histórias de"
+     "sucesso que estão ajudando a quebrar estereótipos de gênero. Essas iniciativas estão encorajando"
+     "mais meninas a seguir carreiras científicas e promovendo um ambiente mais inclusivo nas"
+     "universidades e empresas. Além disso, a Fundação Futuro está promovendo a realização de"
+     "palestras e workshops sobre carreiras científicas para estudantes do ensino médio, visando"
      "despertar o interesse das jovens pela ciência.",
 
-     "Sistemas patriarcais ainda prevalecem em muitas áreas, dificultando o progresso para a igualdade\n"
-     "de gênero. Ativistas da Aliança por Igualdade estão trabalhando para desmantelar essas\n"
-     "estruturas e promover uma sociedade mais justa. Campanhas como 'Igualdade Agora' estão ganhando\n"
-     "apoio e destacando a necessidade de mudanças sistêmicas para alcançar a verdadeira equidade de\n"
-     "gênero. Além disso, a Aliança por Igualdade está promovendo a realização de debates e\n"
-     "conferências sobre igualdade de gênero, visando conscientizar a sociedade e impulsionar a\n"
+     "Sistemas patriarcais ainda prevalecem em muitas áreas, dificultando o progresso para a igualdade"
+     "de gênero. Ativistas da Aliança por Igualdade estão trabalhando para desmantelar essas"
+     "estruturas e promover uma sociedade mais justa. Campanhas como 'Igualdade Agora' estão ganhando"
+     "apoio e destacando a necessidade de mudanças sistêmicas para alcançar a verdadeira equidade de"
+     "gênero. Além disso, a Aliança por Igualdade está promovendo a realização de debates e"
+     "conferências sobre igualdade de gênero, visando conscientizar a sociedade e impulsionar a"
      "mudança."},
 
-    {"Iniciativas para esportes sem distinção de gênero, como o Esporte para Todos, estão ganhando\n"
-     "apoio, promovendo igualdade e inclusão. A Confederação Esportiva Nacional lançou uma campanha\n"
-     "para garantir que todos, independentemente de gênero, tenham acesso igualitário a recursos\n"
-     "esportivos. Essas mudanças estão criando um ambiente esportivo mais justo e acessível para\n"
-     "todos. Além disso, o Esporte para Todos está promovendo a realização de eventos esportivos\n"
-     "inclusivos, nos quais homens e mulheres competem juntos, visando promover a igualdade de\n"
+    {"Iniciativas para esportes sem distinção de gênero, como o Esporte para Todos, estão ganhando"
+     "apoio, promovendo igualdade e inclusão. A Confederação Esportiva Nacional lançou uma campanha"
+     "para garantir que todos, independentemente de gênero, tenham acesso igualitário a recursos"
+     "esportivos. Essas mudanças estão criando um ambiente esportivo mais justo e acessível para"
+     "todos. Além disso, o Esporte para Todos está promovendo a realização de eventos esportivos"
+     "inclusivos, nos quais homens e mulheres competem juntos, visando promover a igualdade de"
      "oportunidades.",
 
-     "Empresas estão se esforçando para criar ambientes de trabalho mais agradáveis, aumentando a\n"
-     "satisfação e produtividade dos funcionários. A Corporação Ambience lidera o movimento com\n"
-     "iniciativas que incluem horários flexíveis e espaços de trabalho colaborativos. No entanto, é\n"
-     "crucial garantir que essas melhorias beneficiem igualmente todos os gêneros para promover uma\n"
-     "verdadeira inclusão. Além disso, a Corporação Ambience está implementando programas de\n"
+     "Empresas estão se esforçando para criar ambientes de trabalho mais agradáveis, aumentando a"
+     "satisfação e produtividade dos funcionários. A Corporação Ambience lidera o movimento com"
+     "iniciativas que incluem horários flexíveis e espaços de trabalho colaborativos. No entanto, é"
+     "crucial garantir que essas melhorias beneficiem igualmente todos os gêneros para promover uma"
+     "verdadeira inclusão. Além disso, a Corporação Ambience está implementando programas de"
      "diversidade e inclusão, visando garantir a igualdade de oportunidades para todos os funcionários.",
 
-     "Empresas exclusivamente masculinas estão sendo criticadas por falta de diversidade e inclusão.\n"
-     "Estudos conduzidos pela Universidade Global mostram que a diversidade de gênero nas empresas\n"
-     "leva a melhores resultados e maior inovação. A campanha Diversidade Já, liderada pelo Instituto\n"
-     "Progresso, está pressionando por mudanças significativas no setor empresarial. Além disso, o\n"
-     "Instituto Progresso está promovendo a realização de pesquisas e estudos sobre diversidade de\n"
+     "Empresas exclusivamente masculinas estão sendo criticadas por falta de diversidade e inclusão."
+     "Estudos conduzidos pela Universidade Global mostram que a diversidade de gênero nas empresas"
+     "leva a melhores resultados e maior inovação. A campanha Diversidade Já, liderada pelo Instituto"
+     "Progresso, está pressionando por mudanças significativas no setor empresarial. Além disso, o"
+     "Instituto Progresso está promovendo a realização de pesquisas e estudos sobre diversidade de"
      "gênero nas empresas, visando conscientizar o mercado sobre os benefícios da inclusão."},
 
-    {"Políticas que evitam a diversidade de gênero estão enfrentando forte oposição por limitar o\n"
-     "progresso e a inclusão. Organizações como a Diversidade Global estão destacando a importância da\n"
-     "diversidade para a inovação e o sucesso sustentável. Empresas que promovem a inclusão, como a\n"
-     "Tech4All, estão se tornando modelos de sucesso no mercado internacional. Além disso, a\n"
-     "Diversidade Global está promovendo a realização de conferências e eventos sobre diversidade de\n"
-     "gênero, visando disseminar boas práticas e inspirar outras empresas a adotarem políticas de\n"
+    {"Políticas que evitam a diversidade de gênero estão enfrentando forte oposição por limitar o"
+     "progresso e a inclusão. Organizações como a Diversidade Global estão destacando a importância da"
+     "diversidade para a inovação e o sucesso sustentável. Empresas que promovem a inclusão, como a"
+     "Tech4All, estão se tornando modelos de sucesso no mercado internacional. Além disso, a"
+     "Diversidade Global está promovendo a realização de conferências e eventos sobre diversidade de"
+     "gênero, visando disseminar boas práticas e inspirar outras empresas a adotarem políticas de"
      "inclusão.",
 
-     "Medidas de segurança reforçadas para mulheres estão sendo implementadas em áreas urbanas e\n"
-     "rurais. O programa Cidade Segura, uma colaboração entre o governo e a ONG Proteção para Todos,\n"
-     "visa reduzir a violência e o assédio. Essas ações estão criando ambientes mais seguros e\n"
-     "confiáveis para as mulheres em espaços públicos e no trabalho. Além disso, o programa Cidade\n"
-     "Segura está promovendo a realização de campanhas de conscientização e treinamentos de autodefesa\n"
+     "Medidas de segurança reforçadas para mulheres estão sendo implementadas em áreas urbanas e"
+     "rurais. O programa Cidade Segura, uma colaboração entre o governo e a ONG Proteção para Todos,"
+     "visa reduzir a violência e o assédio. Essas ações estão criando ambientes mais seguros e"
+     "confiáveis para as mulheres em espaços públicos e no trabalho. Além disso, o programa Cidade"
+     "Segura está promovendo a realização de campanhas de conscientização e treinamentos de autodefesa"
      "para mulheres, visando empoderá-las e garantir sua segurança.",
 
-     "Propostas para reduzir a licença maternidade estão sendo debatidas, gerando preocupação entre\n"
-     "grupos de direitos das mulheres. O Instituto Maternidade Justa argumenta que uma licença\n"
-     "adequada é essencial para o bem-estar das mães e filhos. A discussão está atraindo atenção\n"
-     "internacional e destaca a importância de políticas de apoio às famílias. Além disso, o Instituto\n"
-     "Maternidade Justa está promovendo a realização de debates e fóruns de discussão sobre a\n"
+     "Propostas para reduzir a licença maternidade estão sendo debatidas, gerando preocupação entre"
+     "grupos de direitos das mulheres. O Instituto Maternidade Justa argumenta que uma licença"
+     "adequada é essencial para o bem-estar das mães e filhos. A discussão está atraindo atenção"
+     "internacional e destaca a importância de políticas de apoio às famílias. Além disso, o Instituto"
+     "Maternidade Justa está promovendo a realização de debates e fóruns de discussão sobre a"
      "licença maternidade, visando conscientizar a sociedade sobre a importância desse direito."},
 
-    {"Palestras em escolas sobre igualdade de gênero, como parte do programa Educação para Todos,\n"
-     "estão ajudando a educar jovens sobre respeito e direitos das mulheres. Essas iniciativas, lideradas\n"
-     "pela ONG Educação Igualitária, estão promovendo uma cultura de igualdade e inclusão desde cedo,\n"
-     "preparando as futuras gerações para um mundo mais justo. Além disso, a ONG Educação Igualitária\n"
-     "está desenvolvendo materiais educativos e programas de conscientização sobre igualdade de gênero,\n"
+    {"Palestras em escolas sobre igualdade de gênero, como parte do programa Educação para Todos,"
+     "estão ajudando a educar jovens sobre respeito e direitos das mulheres. Essas iniciativas, lideradas"
+     "pela ONG Educação Igualitária, estão promovendo uma cultura de igualdade e inclusão desde cedo,"
+     "preparando as futuras gerações para um mundo mais justo. Além disso, a ONG Educação Igualitária"
+     "está desenvolvendo materiais educativos e programas de conscientização sobre igualdade de gênero,"
      "visando disseminar conhecimento e promover a mudança.",
 
-     "Esforços para alcançar a igualdade salarial estão ganhando momentum, com mais empresas adotando\n"
-     "práticas justas de remuneração. A campanha Salário Justo, apoiada pela Federação Nacional de\n"
-     "Trabalhadores, está promovendo transparência salarial e práticas equitativas. Essas mudanças\n"
-     "estão ajudando a reduzir a disparidade de gênero e promover uma economia mais equitativa. Além\n"
-     "disso, a Federação Nacional de Trabalhadores está promovendo a realização de pesquisas e\n"
+     "Esforços para alcançar a igualdade salarial estão ganhando momentum, com mais empresas adotando"
+     "práticas justas de remuneração. A campanha Salário Justo, apoiada pela Federação Nacional de"
+     "Trabalhadores, está promovendo transparência salarial e práticas equitativas. Essas mudanças"
+     "estão ajudando a reduzir a disparidade de gênero e promover uma economia mais equitativa. Além"
+     "disso, a Federação Nacional de Trabalhadores está promovendo a realização de pesquisas e"
      "estudos sobre a igualdade salarial, visando conscientizar a sociedade e pressionar por mudanças.",
 
-     "O setor industrial está se expandindo, trazendo oportunidades de emprego e crescimento\n"
-     "econômico. A iniciativa Indústria para Todos, liderada pela Associação Industrial Brasileira,\n"
-     "visa garantir que essas oportunidades sejam acessíveis igualmente a homens e mulheres. Essa\n"
-     "abordagem inclusiva está sendo vista como um modelo para o desenvolvimento sustentável no\n"
-     "mercado global. Além disso, a Associação Industrial Brasileira está promovendo a realização de\n"
-     "programas de capacitação e treinamento para mulheres interessadas em ingressar na indústria,\n"
+     "O setor industrial está se expandindo, trazendo oportunidades de emprego e crescimento"
+     "econômico. A iniciativa Indústria para Todos, liderada pela Associação Industrial Brasileira,"
+     "visa garantir que essas oportunidades sejam acessíveis igualmente a homens e mulheres. Essa"
+     "abordagem inclusiva está sendo vista como um modelo para o desenvolvimento sustentável no"
+     "mercado global. Além disso, a Associação Industrial Brasileira está promovendo a realização de"
+     "programas de capacitação e treinamento para mulheres interessadas em ingressar na indústria,"
      "visando promover a igualdade de oportunidades e fortalecer o setor industrial."}};
 
 string choices[7][3] = {
@@ -412,7 +412,10 @@ void write_map()
                         space = 0;
                         for (int c = 0; c < news[last_investment.back().first][last_investment.back().second].size(); c++)
                         {
-                                                }
+                            if (c % 100 == 0)
+                                cout << endl;
+                            cout << news[last_investment.back().first][last_investment.back().second][c];
+                        }
 
                         cout
                             << "\033[0;0m" << endl
@@ -488,8 +491,10 @@ void investments()
             }
         }
 
-        cout << "(Digite 0 para sair)";
-        cout << "No que deseja investir? ";
+        cout << endl
+             << endl
+             << "\033[47;30m(Digite 0 para sair)";
+        cout << "No que deseja investir? \033[0;0m";
         cin >> commands;
         if (commands != 0)
             if (!change_options())
