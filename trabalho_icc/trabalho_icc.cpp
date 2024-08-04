@@ -40,7 +40,7 @@ pair<int, int> options[7][3] = {
     {{0, 240}, {0, 300}, {0, 90}},
     {{0, 70}, {0, 130}, {0, 150}},
     {{0, 50}, {0, 180}, {0, 30}},
-    {{0, 3000}, {0, 500}, {0, 50}}};
+    {{0, 300}, {0, 500}, {0, 50}}};
 
 pair<int, int> alt[7][3] = {
     {{3, 5}, {3, 2}, {-3, 2}},
@@ -290,7 +290,7 @@ void get_input()
 int main()
 {
     // show the game goal
-    cout << "\033[H\033[J\033[30m\033[47mSeu objetivo nesse jogo eh conseguir a mesma quantidade(ou aproximada) de homens e mulheres nas areas de exatas.\nVoce, como presidente do Brasil, deve fazer os melhores investimentos para que isso ocorra. Boa sorte!\n\nAlterne entre o mapa e a tela de investimentos para vizualizar o mapa referente á quantidade\nde mulheres nas áreas de exatas. A cada 4 segundos o seu dinheiro aumenta o equivalente a sua renda.\nInvista o seu dinheiro visando a diversidade de genero e igualdade social/economia\n\n*Não há acentos em muitas partes do jogo por causa do erro deles em certas funções*\n*Faça boas escolhas que são inclusivas para ganhar o jogo*\n*Leia as notícias atentamente, elas são muito importantes e demonstram como sua escolha impactou o país*\n\n\033[0;0m\033[30m\033[47mDigite 0 para continuar: \033[0;0m";
+    cout << "\033[H\033[J\033[30m\033[47mSeu objetivo nesse jogo eh conseguir a mesma quantidade(ou aproximada) de homens e mulheres nas areas de exatas.\nVoce, como presidente do Brasil, deve fazer os melhores investimentos para que isso ocorra. Boa sorte!\n\nAlterne entre o mapa e a tela de investimentos para vizualizar o mapa referente á quantidade\nde mulheres nas áreas de exatas. A cada 4 segundos o seu dinheiro aumenta o equivalente a sua renda.\nInvista o seu dinheiro visando a diversidade de genero e igualdade social/economica\n\n*Não há acentos em muitas partes do jogo por causa do erro deles em certas funções*\n*Faça boas escolhas que são inclusivas para ganhar o jogo*\n*Leia as notícias atentamente, elas são muito importantes e demonstram como sua escolha impactou o país*\n\n\033[0;0m\033[30m\033[47mDigite 0 para continuar: \033[0;0m";
     while (commands != 0)
     {
         cin >> commands;
@@ -486,6 +486,7 @@ void investments()
         show_news();
 }
 
+// function to change the matrix of options
 bool change_options()
 {
     bool f = true;
@@ -577,6 +578,7 @@ bool change_options()
     return false;
 }
 
+// function to show the news
 void show_news()
 {
     while (last_investment.size() != 0)
@@ -608,8 +610,8 @@ void show_news()
             cin >> commands;
             if (cin.fail())
             {
-                cin.clear();                                              // Limpa o estado de erro de cin
-                cin.ignore(std::numeric_limits<streamsize>::max(), '\n'); // Ignora a entrada invalida
+                cin.clear();
+                cin.ignore(std::numeric_limits<streamsize>::max(), '\n');
                 cout << "Entrada invalida. Por favor, digite um numero." << endl;
                 commands = -1;
             }
