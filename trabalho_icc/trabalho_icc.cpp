@@ -441,7 +441,7 @@ void investments()
                 space = 49;
                 if (options[i][j].first == -1)
                 {
-                    cout << "\033[0;37m" << choices[i][j] << "\033[0;0m";
+                    cout << "\033[30;37m" << choices[i][j] << "\033[0;0m";
                     space -= choices[i][j].length();
                 }
                 else if (options[i][j].first > 0)
@@ -455,7 +455,7 @@ void investments()
             cout << endl
                  << endl;
         }
-        cout << "\033[47mEXPLICAÇÕES:\033[0;0m" << endl
+        cout << "\033[30;47mEXPLICAÇÕES:\033[0;0m" << endl
              << endl;
 
         for (int i = 0; i < 7; i++)
