@@ -1,1 +1,1 @@
-Diferentes versões do do jogo
+Different versions of the game
